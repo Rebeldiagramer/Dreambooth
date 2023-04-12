@@ -1,1 +1,4 @@
 mirrors.kernel.org/ubuntu/pool/main/g/google-perftools/libtcmalloc-minimal4_2.7-1ubuntu2_amd64.deb
+mirrors.kernel.org/ubuntu/pool/main/libu/libunwind/libunwind8_1.2.1-9build1_amd64.deb
+mirrors.kernel.org/ubuntu/pool/main/g/google-perftools/libgoogle-perftools4_2.7-1ubuntu2_amd64.deb
+mirrors.kernel.org/ubuntu/pool/universe/g/google-perftools/google-perftools_2.7-1ubuntu2_all.deb
