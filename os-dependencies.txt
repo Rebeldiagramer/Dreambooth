@@ -1,4 +1,9 @@
+http://security.ubuntu.com/ubuntu/pool/universe/libz/libzstd/zstd_1.4.4+dfsg-3ubuntu0.1_amd64.deb
 mirrors.kernel.org/ubuntu/pool/main/g/google-perftools/libtcmalloc-minimal4_2.7-1ubuntu2_amd64.deb
+http://security.ubuntu.com/ubuntu/pool/main/x/xz-utils/liblzma5_5.2.4-1ubuntu1.1_amd64.deb
+http://security.ubuntu.com/ubuntu/pool/main/x/xz-utils/liblzma-dev_5.2.4-1ubuntu1.1_amd64.deb
 mirrors.kernel.org/ubuntu/pool/main/libu/libunwind/libunwind8_1.2.1-9build1_amd64.deb
+http://mirrors.kernel.org/ubuntu/pool/main/libu/libunwind/libunwind-dev_1.2.1-9build1_amd64.deb
 mirrors.kernel.org/ubuntu/pool/main/g/google-perftools/libgoogle-perftools4_2.7-1ubuntu2_amd64.deb
 mirrors.kernel.org/ubuntu/pool/universe/g/google-perftools/google-perftools_2.7-1ubuntu2_all.deb
+http://mirrors.kernel.org/ubuntu/pool/main/g/google-perftools/libgoogle-perftools-dev_2.7-1ubuntu2_amd64.deb
